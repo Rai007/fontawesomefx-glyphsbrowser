@@ -1,6 +1,6 @@
 # FontAwesomeFX Glyphsbrowser + Search Bar added 
-- I convert gradle to maven build and arrage some files to make it publish to 1 single execute jar file
-- This convenient for people who want to refer icons name for UI development.
+- I convert gradle to maven build and arrange some files to make it publish to 1 single execute jar file
+- This convenient for people who want to refer icons name/id for UI development.
 
 Without Searching
 ![search](https://user-images.githubusercontent.com/20374208/32386681-b2c17dc6-c0ca-11e7-9a68-a42155703c18.png)
