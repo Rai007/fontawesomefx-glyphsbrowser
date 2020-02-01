@@ -14,11 +14,6 @@
         
         <!-- JAVAFX -->
         <dependency>
-            <groupId>net.da</groupId>
-            <artifactId>backing</artifactId>
-            <version>0.1.7</version>
-        </dependency>
-        <dependency>
             <groupId>org.openjfx</groupId>
             <artifactId>javafx-archetype-fxml</artifactId>
             <version>0.0.3</version>
